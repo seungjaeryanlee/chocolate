@@ -6,10 +6,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="chocolate", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Seungjae Ryan Lee",
     author_email="seungjaeryanlee@github.com",
-    description="An improvement to Python's magic variables",
+    description="An improvement to Python's kwargs",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/seungjaeryanlee/chocolate",
